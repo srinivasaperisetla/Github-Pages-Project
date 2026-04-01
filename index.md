@@ -15,7 +15,7 @@ I primarily work with **Python** and **C++**, and I enjoy building real-world ap
 
 ## 🖼️ Picture
 
-[Profile Image](./srini.jpeg)
+![Profile Image](./srini.jpeg)
 
 ---
 
